@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-72ndpu.privatetalks.online/sitemap.xml
